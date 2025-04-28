@@ -1,0 +1,77 @@
+Project Description:
+
+365 Finance is a lightweight, mobile-first decentralized wallet application focused on the Solana blockchain.
+It allows users to send, receive, and swap testnet SPL tokens including USD, EUR, and NGN tokens — with a clean, gold-and-luxury-black themed interface optimized for fast interaction.
+
+Work Completed (Proof of Work):
+
+Wallet Created on Solana Devnet
+
+Three SPL Tokens minted successfully:
+
+USD Token
+
+EUR Token
+
+NGN Token
+
+Testnet SOL loaded into wallet
+
+Mobile Application built using React Native + Expo
+
+Two Main Screens:
+
+Home Tab showing wallet balances + 3 main actions: Send, Receive, Swap
+
+Profile Tab for user info/settings (placeholder)
+
+
+Send, Receive, and Swap Screens functional (UI setup complete):
+
+Send: Input recipient address and amount
+
+Receive: Display own wallet address with QR code
+
+Swap: Input from-token, to-token, and amount
+
+Screenshots Included:
+
+Home Screen (Wallet Balance)
+
+Send Token Screen
+
+Receive Token Screen
+
+Swap Token Screen
+
+Technology Used:
+
+Frontend: React Native (Expo)
+
+Wallet: Phantom Wallet (Testnet)
+
+Blockchain: Solana Devnet
+
+Token Tools: Orion Tools (for minting test tokens)
+
+Future Improvements (Next Steps):
+
+Connect app directly to Solana blockchain for real transaction signing
+
+Implement real-time balance updates
+
+Enable actual token transfer and swap operations
+
+Add login with wallet feature (WalletConnect or Phantom)
+
+Enhance profile screen with settings and transaction history
+
+Improve UX with animations and better navigation flow
+
+Move to Mainnet after successful testing
+
+Summary:
+
+365 Finance demonstrates a functional foundation for a mobile-based decentralized finance (DeFi) app, aimed at making token management easy, smooth, and elegant on Solana blockchain.
+
+The project is ready for next-phase development once grant funding is secured.
